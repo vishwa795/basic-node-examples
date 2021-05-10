@@ -1,0 +1,12 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "A simple Node Trial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishwa Vignesh",
+  "license": "ISC"
+}
