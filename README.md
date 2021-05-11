@@ -1,4 +1,4 @@
-# basic-node-examples
+# Basic Node Examples
 
 ## node-examples
 ```
@@ -16,9 +16,9 @@ A basic example to serve HTML files using NodeJS
 ```
 
 ## node-mongo
-```
+
 A Simple Server is created that performs basic CRUD operations on MongoDB
-```
+
 
 ## node-mongoose
 ```
