@@ -24,3 +24,9 @@ A Simple Server is created that performs basic CRUD operations on MongoDB
 
 A simple mongoose example, which is used for object data modelling. Mongo doesnt allow enforcing constraints on data stored in DB. Thus Mongoose is used to create models which inturn will set a fixed schema.
 
+## Usage and Installation
+1. Clone the Repo
+2. Move into one particular folder (ex: node-examples)
+3. Peform npm install in the root of the example folder you have entered.
+4. Dependency Packages must have now installed in node_modules
+5. Once the above step is completed, you can do npm start and the server created will start running
